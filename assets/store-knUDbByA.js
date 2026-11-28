@@ -1,0 +1,1 @@
+import{N as e,_ as t}from"./Icon-D4VXW5-G.js";import{t as n}from"./telegram-BRTA636a.js";var r=e(e=>({user:null,async load(){let r=await t.getUser(),i=n.user();e({user:i?{...r,...i}:r})}}));export{r as t};

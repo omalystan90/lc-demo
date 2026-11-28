@@ -1,0 +1,1 @@
+.plate-bracket-calls{animation:plate-bracket-calls var(--bracket-pulse,.8s) ease-in-out infinite alternate}@keyframes plate-bracket-calls{0%{transform:translate(0)scale(1)}to{transform:translate(.25rem)scale(1.18)}}
